@@ -26,7 +26,7 @@ Cảm biến khí MKE-S08 MQ-2 Gas Sensor được thiết kế dựa trên cả
 
 ## Hình ảnh sản phẩm
 
-![MKE_S08](/image/MKE_S08_1.jpg)
+![MKE_S08](/image/MKE_S08_1.jpeg)
 
 ![MKE_S08](/image/MKE_S08_2.jpg)
 
