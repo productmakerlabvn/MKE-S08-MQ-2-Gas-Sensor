@@ -8,13 +8,13 @@ Cảm biến khí MKE-S08 MQ-2 Gas Sensor thuộc hệ sinh thái phần cứng 
 
 ## Nguyên lý hoạt động
 
-Cảm biến khí gas MKE-S08 MQ-2 (LPG/CO/CH4) sensor được thiết kế dựa trên cảm biến MQ-2 là một loại Chemiresistors (tạm dịch là điện trở hóa học), để tham khảo nguyên lý hoạt động của cảm biến xin tham bảo bài viết: [Cấu tạo và nguyên lý hoạt dộng của các loại cảm biến MQ.
+Cảm biến khí MKE-S08 MQ-2 Gas Sensor được thiết kế dựa trên cảm biến MQ-2 là một loại Chemiresistors (tạm dịch là điện trở hóa học), để tham khảo nguyên lý hoạt động của cảm biến xin tham bảo bài viết: [Cấu tạo và nguyên lý hoạt dộng của các loại cảm biến MQ.
 ](https://www.makerlab.vn/cau-tao-va-nguyen-ly-hoat-dong-cua-cac-loai-cam-bien-mq/)
 
 ## Thông số kỹ thuật
 
 - Model: MKE-S08
-- Cảm biến chính: MQ-2 (LPG/CO/CH4) sensor.
+- Cảm biến chính: MQ-2 Gas sensor.
 - Đo nồng độ khí gas (LPG/CO/CH4) trong môi trường không khí.
 - Điện áp hoạt động: 5VDC
 - Chuẩn giao tiếp: Analog
